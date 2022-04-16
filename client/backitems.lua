@@ -7,9 +7,7 @@ local currentWeapon = nil
 local slots = 40
 local s = {}
 
-
-AddEventHandler('onResourceStart', function(resourceName)
-	if (GetCurrentResourceName() ~= resourceName) then return end
+AddEventHandler('QBCore:Client:OnPlayerLoaded', function()
     BackLoop()
 end)
 
@@ -72,12 +70,17 @@ function BackLoop()
 end
 
 function check()
+    local BackItemCount = 0;
     for i = 1, slots do
         if s[i] ~= nil then
             local name = s[i].name
             if BackItems[name] then
                 if name ~= currentWeapon then
                     createBackItem(name)
+                    BackItemCount = BackItemCount + 1
+                    if BackItemCount > 1 then
+                        break
+                    end
                 end
             end
         end
