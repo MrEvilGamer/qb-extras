@@ -5,6 +5,8 @@ I Optimized their code :)
 So this is the combination of these scripts also, The Credit goes to them for making it.
 i just merged it hehe
 
+Add the sounds to interact-sound
+
 Carry People
 https://github.com/rubbertoe98/FiveM-Scripts/tree/master/CarryPeople
 
